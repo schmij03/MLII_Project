@@ -30,6 +30,7 @@ The project utilizes the following Python libraries and frameworks:
 - spaCy
 - matplotlib
 - seaborn
+- os
 - and more
 
 Make sure to install the required dependencies by running `pip install -r requirements.txt` before running the notebooks.
