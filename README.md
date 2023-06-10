@@ -73,4 +73,4 @@ The project utilizes the following Python libraries and frameworks:
 Make sure to install the required dependencies by running `pip install -r requirements.txt` before running the notebooks.
 
 ## Conclusion
-Through this project, we aim to leverage NLP techniques to gain insights from review data and build models that can accurately predict ratings based on the reviews. By analyzing user reviews, we can extract valuable information that can help us understand user sentiment and improve services.
+Through this project, we aim to leverage NLP techniques to gain insights from review data and build models that can accurately predict ratings based on the reviews. By analyzing user reviews, we can extract valuable information that can help us understand user sentiment and improve services. The model did run and the best model was the CNN model. I even built a review predicter at the end of the notebook. This did work as well.
