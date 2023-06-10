@@ -15,7 +15,9 @@ The project utilizes data collected from TripAdvisor and Amazon Food. The datase
 ## Project Structure
 The project is organized as follows:
 
-- `data/`: This directory contains the TripAdvisor and Amazon Food datasets used for the analysis. It also contains the merged, merged_transformed(for the logistic regression) as well as the dataset for the testing on unseen data.
+- `data/`: This directory contains the TripAdvisor and Amazon Food datasets used for the analysis. It also contains the merged, lr_data_transformed (for the logistic regression) as well as the dataset for testing on unseen data.
+- `models/`: This directory contains the pretrained models from the logistic regression, BERT, and CNN approaches. The models can be loaded and used for prediction or further analysis.
+
 
 ## Usage
 To reproduce the project results or further explore the NLP analysis, follow these steps:
