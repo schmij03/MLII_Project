@@ -16,6 +16,7 @@ The project utilizes data collected from TripAdvisor and Amazon Food. The datase
 The project is organized as follows:
 
 - `data/`: This directory contains the TripAdvisor and Amazon Food datasets used for the analysis. It also contains the merged, lr_data_transformed (for the logistic regression) as well as the dataset for testing on unseen data.
+
 - `models/`: This directory contains the pretrained models from the logistic regression, BERT, and CNN approaches. The models can be loaded and used for prediction or further analysis.
 
 ## Usage
