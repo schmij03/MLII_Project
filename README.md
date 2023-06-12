@@ -10,14 +10,14 @@ The reviews that were used to train the models come from two sources: TripAdviso
 This project is tailored for Google Colab. If you plan to run it locally, please note that some file paths might need to be adjusted to fit your environment.
 
 ## Data
-The project utilizes data collected from TripAdvisor and Amazon Food. The dataset consists of reviews from various travel-related entities on TripAdvisor and food items on Amazon. Each review includes textual content and a rating. The data will serve as the foundation for our NLP analysis and model training.
+The project utilizes data collected from TripAdvisor and Amazon Food. The dataset consists of reviews from various travel-related entities on TripAdvisor and food items on Amazon. Each review includes textual content and a rating. The data will serve as the foundation for our NLP analysis and model training. The data can be downloaded from here: https://drive.google.com/drive/folders/1gwsRwosLwdV-OSBjTQs1gWie_K_ycYRf?usp=sharing
 
 ## Project Structure
 The project is organized as follows:
 
-- `data/`: This directory contains the TripAdvisor and Amazon Food datasets used for the analysis. It also contains the merged, lr_data_transformed (for the logistic regression) as well as the dataset for testing on unseen data.
+- `data/`: This directory contains the TripAdvisor and Amazon Food datasets used for the analysis. It also contains the merged, lr_data_transformed (for the logistic regression) as well as the dataset for testing on unseen data. The data can be downloaded from here: https://drive.google.com/drive/folders/1gwsRwosLwdV-OSBjTQs1gWie_K_ycYRf?usp=sharing
 
-- `models/`: This directory contains the pretrained models from the logistic regression, BERT, and CNN approaches. The models can be loaded and used for prediction or further analysis.
+- `models/`: This directory contains the pretrained models from the logistic regression, BERT, and CNN approaches. The models can be loaded and used for prediction or further analysis. The models can be downloaded from here: https://drive.google.com/drive/folders/1C7Iet6SVzB-axaFRrD7uipGdGcLSqz3U?usp=sharing
 
 ## Usage
 
